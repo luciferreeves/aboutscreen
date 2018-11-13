@@ -1,0 +1,17 @@
+{
+  "name": "aboutscreen",
+  "version": "1.0.0",
+  "description": "About screen for BackSlash Linux",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "BackSlash Linux",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.5.0",
+    "electron": "^3.0.8",
+    "jquery": "^3.3.1",
+    "systeminformation": "^3.47.0"
+  }
+}
